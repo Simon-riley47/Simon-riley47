@@ -67,10 +67,10 @@ Web Design • Web Development • Information Security • SaaS Development
 ```bash
 > ls certs/
 - Front End Workshop (TSD, Apr 2025)
-- Advent of Cyber 24 (TryHackMe, Dec 2024) [ID: THM-KDADSBJUV2]
-- DECI - Level Two (Digital Egypt Cubs Initiative, Oct 2024) [ID: C69K9TV4]
+- Advent of Cyber 24 (TryHackMe, Dec 2024)
+- DECI - Level Two (Digital Egypt Cubs Initiative, Oct 2024)
 - AWS DECI Summer Program (Amazon Web Services, Nov 2023)
-- DECI - Level One (Digital Egypt Cubs Initiative, Oct 2023) [ID: ZWZMTVY9]
+- DECI - Level One (Digital Egypt Cubs Initiative, Oct 2023)
 - Intermediate Python Scripting (STEM Zone, Sep 2022)
 - Web Design (CCE Finland, Jun 2021)
 ```
