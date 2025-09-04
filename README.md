@@ -1,16 +1,93 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
+<div align="center">
+  
+# 🖤💀 Welcome to My Cyber Space 💀🖤  
 
-<!--
-**Simon-riley47/Simon-riley47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
++=================================================+
+|          HACK THE PLANET | GREEN ON BLACK       |
++=================================================+
+```
 
-Here are some ideas to get you started:
+![Matrix](https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👾 About Me
+```bash
+> whoami
+Cybersecurity Enthusiast | Developer | Pentester  
+```
+
+---
+
+## ⚡ Services
+```bash
+> cat services.txt
+Cybersecurity • Computer Networking • Android Development  
+Web Design • Web Development • Information Security • SaaS Development
+```
+
+---
+
+## 🛠️ Skills
+```bash
+> ./skills --list
+- All
+- Industry Knowledge
+- Tools & Technologies
+- Front-End Development
+- Cybersecurity
+- Web Design
+- Information Security
+- Web Applications
+- Account Management
+- Penetration Testing
+- Software Development
+- Web Development
+- Network Administration
+- Python (Programming Language)
+- Intermediate Python Scripting
+```
+
+---
+
+## 🌐 Languages
+```bash
+> cat languages.json
+{
+  "Arabic": "Native / Bilingual Proficiency",
+  "English": "Professional Working Proficiency",
+  "French": "Elementary Proficiency"
+}
+```
+
+---
+
+## 🎖️ Licenses & Certifications
+```bash
+> ls certs/
+- Front End Workshop (TSD, Apr 2025)
+- Advent of Cyber 24 (TryHackMe, Dec 2024) [ID: THM-KDADSBJUV2]
+- DECI - Level Two (Digital Egypt Cubs Initiative, Oct 2024) [ID: C69K9TV4]
+- AWS DECI Summer Program (Amazon Web Services, Nov 2023)
+- DECI - Level One (Digital Egypt Cubs Initiative, Oct 2023) [ID: ZWZMTVY9]
+- Intermediate Python Scripting (STEM Zone, Sep 2022)
+- Web Design (CCE Finland, Jun 2021)
+```
+
+---
+
+<div align="center">
+
+```diff
++=================================================+
+|          ACCESS GRANTED: WELCOME HACKER          |
++=================================================+
+```
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Stay+Anonymous...;Hack+the+Planet...;Keep+Learning...;Keep+Building...)
+
+</div>
