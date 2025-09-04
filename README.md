@@ -5,12 +5,9 @@
 
 ```diff
 +=================================================+
-|          Living In Terminal 🧑🏻‍💻 | No System Is Safe ❌      |
+|   Living In Terminal 🧑🏻‍💻 | No System Is Safe ❌  |
 +=================================================+
 ```
-
-![Matrix](https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif)
-
 </div>
 
 ---
