@@ -15,7 +15,7 @@
 ## 👾 About Me
 ```bash
 > whoami
-Cybersecurity Enthusiast | Developer | Pentester  
+Cyber Security Analyst | Bug Hunter | SOC | Pentester | Front End Developer
 ```
 
 ---
@@ -72,7 +72,7 @@ Web Design • Web Development • Information Security • SaaS Development
 - AWS DECI Summer Program (Amazon Web Services, Nov 2023)
 - DECI - Level One (Digital Egypt Cubs Initiative, Oct 2023)
 - Intermediate Python Scripting (STEM Zone, Sep 2022)
-- Web Design (CCE Finland, Jun 2021)
+- Web Design (CCE, Jun 2021)
 ```
 
 ---
