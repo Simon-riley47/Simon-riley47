@@ -81,10 +81,7 @@ Web Design • Web Development • Information Security • SaaS Development
 
 ```diff
 +=================================================+
-|          ACCESS GRANTED: WELCOME HACKER          |
+|         ACCESS GRANTED: WELCOME VISITOR         |
 +=================================================+
 ```
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Stay+Anonymous...;Hack+the+Planet...;Keep+Learning...;Keep+Building...)
-
 </div>
