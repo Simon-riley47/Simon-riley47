@@ -32,21 +32,18 @@ Web Design • Web Development • Information Security • SaaS Development
 ## 🛠️ Skills
 ```bash
 > ./skills --list
-- All
-- Industry Knowledge
-- Tools & Technologies
+- AI Tools & New Technologies
 - Front-End Development
 - Cybersecurity
-- Web Design
+- Web Designing
 - Information Security
-- Web Applications
+- Web Devolopment
 - Account Management
 - Penetration Testing
 - Software Development
-- Web Development
 - Network Administration
 - Python (Programming Language)
-- Intermediate Python Scripting
+- Linux Adminstration
 ```
 
 ---
@@ -68,9 +65,9 @@ Web Design • Web Development • Information Security • SaaS Development
 > ls certs/
 - Front End Workshop (TSD, Apr 2025)
 - Advent of Cyber 24 (TryHackMe, Dec 2024)
-- DECI - Level Two (Digital Egypt Cubs Initiative, Oct 2024)
+- DECI - Level Two (DECI, Oct 2024)
 - AWS DECI Summer Program (Amazon Web Services, Nov 2023)
-- DECI - Level One (Digital Egypt Cubs Initiative, Oct 2023)
+- DECI - Level One (DECI, Oct 2023)
 - Intermediate Python Scripting (STEM Zone, Sep 2022)
 - Web Design (CCE, Jun 2021)
 ```
